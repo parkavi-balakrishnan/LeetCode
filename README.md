@@ -6,6 +6,7 @@ Practice Problems From LeetCode
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/parkavi-balakrishnan/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/parkavi-balakrishnan/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/parkavi-balakrishnan/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -16,5 +17,6 @@ Practice Problems From LeetCode
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/parkavi-balakrishnan/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/parkavi-balakrishnan/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
